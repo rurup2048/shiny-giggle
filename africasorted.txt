@@ -1,0 +1,56 @@
+Algeria
+                           8Angola
+                            7Benin
+                             6Botswana
+                          9Burkina Faso
+                     13Burundi
+                           8Cameroon
+                          9Cape Verde
+                       11Central African Republic
+         25Chad
+                              5Comoros
+                           8Cote d'Ivoire
+                    14Democratic Republic of the Congo
+ 33Djibouti
+                          9Egypt
+                             6Equatorial Guinea
+                18Eritrea
+                           8Eswatini
+                          9Ethiopia
+                          9Gabon
+                             6Ghana
+                             6Guinea
+                            7Guinea-Bissau
+                    14Kenya
+                             6Lesotho
+                           8Liberia
+                           8Libya
+                             6Madagascar
+                       11Malawi
+                            7Mali
+                              5Mauritania
+                       11Mauritius
+                        10Morocco
+                           8Mozambique
+                       11Namibia
+                           8Niger
+                             6Nigeria
+                           8Republic of the Congo
+            22Reunion
+                           8Rwanda
+                            7Sao Tome and Principe
+            22Senegal
+                           8Seychelles
+                       11Sierra Leone
+                     13Somalia
+                           8South Africa
+                     13South Sudan
+                      12Sudan
+                             6Tanzania
+                          9The Gambia
+                       11Togo
+                              5Tunisia
+                           8Uganda
+                            7Zambia
+                            7Zimbabwe
+                          9
