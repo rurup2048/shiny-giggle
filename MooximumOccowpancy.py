@@ -1,0 +1,1 @@
+n = int(input())s = list(map(int,input().split()))f = list(map(int,input().split()))sf = []for i in range(n):    sf.append(s[i])    sf.append(f[i])sf.sort()maxCows = []for numRound in sf:    numCows = 0    for k in range(n):        if s[k] <= numRound and numRound <= f[k]:            numCows += 1    maxCows.append(numCows)print(str(max(maxCows)))
